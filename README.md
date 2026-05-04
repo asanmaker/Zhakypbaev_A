@@ -1,2 +1,2 @@
 # Zhakypbaev_A
-#смотреть master branch
+# смотреть master branch
